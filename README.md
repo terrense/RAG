@@ -128,5 +128,3 @@ print(qa.run("What makes RAG powerful?"))
 
 ---
 
-要不要我再给你写一个 **精简酷炫版（200行以内）**，适合当 README 的项目首页，另一个是 **长篇详细版**，适合做 GitHub Wiki？
-```
