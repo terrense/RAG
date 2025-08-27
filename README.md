@@ -1,7 +1,6 @@
 # RAG
 
-明白 ✅ 我来给你设计一份 **极客 / 黑客风** 的 GitHub `README.md` 技术帖子，主题是 **RAG (Retrieval-Augmented Generation) 系统与完整技术栈**。
-内容风格会有一点 cyberpunk + terminal 黑客风，既酷炫又保持技术专业性。
+
 
 ---
 
